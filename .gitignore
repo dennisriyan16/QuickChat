@@ -1,0 +1,13 @@
+# Common CI4 gitignore
+.env
+/app/Config/Development/
+/writable/*
+!/writable/.gitkeep
+/vendor/
+/public/user_uploads/*
+/public/assets/uploads/*
+.phpunit.result.cache
+/tests/_output/*
+/tests/_support/_generated/*
+/user_guide_src/build/*
+/userguide3/
