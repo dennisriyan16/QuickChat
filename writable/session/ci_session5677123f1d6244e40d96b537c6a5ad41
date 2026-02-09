@@ -1,0 +1,3 @@
+__ci_last_regenerate|i:1770572731;_ci_previous_url|s:42:"http://localhost/QuickChat/forgot-password";error|s:273:"Failed to send OTP. Error: Unable to send email using SMTP. Your server might not be configured to send mail using this method.Date: Sun, 8 Feb 2026 17:42:58 +0000
+To: dennisriyan@gmail.com
+Subject: =?UTF-8?Q?Your=20QuickChat... Please check system logs for full details.";__ci_vars|a:1:{s:5:"error";s:3:"old";}
