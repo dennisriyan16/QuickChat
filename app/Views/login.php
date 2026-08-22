@@ -9,7 +9,7 @@
                     <div class="mb-3">
                         <i class="fas fa-comments text-primary fa-3x"></i>
                     </div>
-                    <h2 class="font-weight-700">QuickChat</h2>
+                    <h2 class="font-weight-700">QuickChat 0.2</h2>
                     <p class="text-muted">Welcome back! Please login to your account.</p>
                 </div>
 
