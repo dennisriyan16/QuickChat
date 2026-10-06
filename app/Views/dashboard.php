@@ -19,7 +19,7 @@
                         <i class="fas fa-comments mr-2"></i> Enter Chat Room
                     </a>
                     <a href="<?= base_url('logout') ?>" class="btn btn-outline-danger btn-lg px-5 mx-2">
-                        <i class="fas fa-sign-out-alt mr-2"></i> Logout
+                        <i class="fas fa-sign-out-alt mr-2"></i> Logout 
                     </a>
                 </div>
             </div>
